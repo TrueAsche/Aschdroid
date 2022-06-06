@@ -1,0 +1,8 @@
+{
+    "author": ["Aschente"],
+    "description": "XKI utilities for update management. originally written by kortexia, altered by Aschente",
+    "install_msg": "updatecore is installed.",
+    "short": "Update management utilities",
+    "end_user_data_statement": "No user data is stored.",
+    "requirements": []
+}
