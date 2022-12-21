@@ -7,7 +7,7 @@ class Question(commands.Cog):
     @commands.command()
     async def question(self, ctx):
         """Counts down from 7"""
-        i = 7
+        i = 6
         while(i > 0):
             await ctx.send(i)
             time.sleep(1)
